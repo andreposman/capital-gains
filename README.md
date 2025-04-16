@@ -1,6 +1,6 @@
 # Capital Gains Tax Calculator (Go)
 
-This project implements a command-line interface (CLI) application in Go to calculate capital gains tax for stock market operations based on a series of transactions provided via standard input.
+This project implements a command-line interface (CLI) application in Go to calculate capital gains tax for stock market operations based on a series of transactions provided via standard input. The PDF containing the code challenge can be found [here](./code-challenge.pdf)
 
 
 ## Prerequisites
