@@ -1,0 +1,6 @@
+services:
+  capital-gains:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    stdin_open: true
